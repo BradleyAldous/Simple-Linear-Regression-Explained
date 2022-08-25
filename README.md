@@ -2,7 +2,7 @@
 
 Simple linear regression is a method used to estimate the relationship between two continuous (quantative) variables; one independent variable, $x$, and one dependent variable, $y$, using a straight line. This linear model follows an equation of style, $y_i = \alpha x_i + \beta + \epsilon_i$, where $\beta$ is the intercept (the value of $y_i$ when $x_i$ is 0), $\alpha$ is the regression coefficient (and determines the slope of the regression line), and $\epsilon_i$ is the difference between the actual and predicted values of $y$.
 
-The regression line will pass through the point comprised of the mean values for $x$ and $y$.**
+The regression line will pass through the point comprised of the mean values for $x$ and $y$.
 
 1. Firstly, we calculate the means, $\bar x$ and $\bar y$ of all $x$ and $y$ values.
 
